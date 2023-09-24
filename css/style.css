@@ -27,6 +27,7 @@ ol {
 .main-content {
     padding: 80px 40px 80px 88px;
     box-sizing: border-box;
+    width: 100%;
 }
 
 /* Sidebar */
