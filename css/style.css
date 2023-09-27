@@ -238,7 +238,7 @@ ol {
     body {
         padding: 20px;
     }
-
+    
     .main-content {
         padding: 40px;
     }
@@ -248,11 +248,11 @@ ol {
     .sidebar {
         width: 250px;
     }
-
+    
     .my-photo {
         width: 250px;
     }
-
+    
     .sidebar-content {
         padding: 20px;
     }
@@ -262,21 +262,22 @@ ol {
     body {
         padding: 0;
     }
-
+    
     .sidebar {
         width: 200px;
     }
-
+    
     .my-photo {
         width: 200px;
     }
-
+    
     .main-content {
         padding: 20px;
     }
-
+    
     .my-name {
         font-size: 28px;
+        line-height: 38px;
     }
 }
 
@@ -284,12 +285,12 @@ ol {
     .wrapper {
         flex-direction: column;
     }
-
+    
     .sidebar {
         width: 100%;
         padding: 20px;
     }
-
+    
     .my-photo {
         width: 100%;
     }
